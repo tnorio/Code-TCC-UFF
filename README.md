@@ -17,5 +17,5 @@ Para maior entendimento leia o artigo completo: https://app.uff.br/riuff/handle/
 This was my first programming code designed to help me generate the cartograms needed for my Geography Bachelor's degree final exam analysis. The project was elaborated at LAGEF - UFF.  
 I now know that the code could improve a lot, but I am proud to have managed to complete it at the time.  
 The data used were made available in the Municipal Agricola Survey (PAM) of IBGE (https://sidra.ibge.gov.br/pesquisa/pam/tabelas).  
-The data was manipulated and inserted into shapefiles in R. Subsequently these shapefiles went through a final polishing in ArcGis.  
+The data was manipulated and inserted into shapefiles in R. Subsequently these shapefiles went through a final polishing in ArcMap.  
 For more understanding read the full article: https://app.uff.br/riuff/handle/1/16313  
