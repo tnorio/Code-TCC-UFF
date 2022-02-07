@@ -8,7 +8,7 @@ Esse foi o meu primeiro código de programação criado para me auxiliar a gerar
 Atualmente sei que o código poderia melhorar bastante, porém me sinto orgulhoso de ter conseguido completá-lo na época.  
 Os dados utilizados foram disponibilizados na Pesquisa Agricola Municipal(PAM) do IBGE (https://sidra.ibge.gov.br/pesquisa/pam/tabelas).  
 Os dados foram manipulados e inseridos em shapefiles no R.  
-Posteriormente estes shapefiles passou por um polimento final no ArcGis.  
+Posteriormente estes shapefiles passou por um polimento final no ArcMap.  
   
 Para maior entendimento leia o artigo completo: https://app.uff.br/riuff/handle/1/16313  
 
