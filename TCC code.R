@@ -488,7 +488,7 @@ df<-as.data.frame(df)
 
 write.table(df,"Centroid_TANGERINA_HM2_FINAL.csv",sep = ";", row.names=F, fileEncoding= "UTF-8")
 
-#criar shp do centroi AQUI
+#criar shp do centroid com os dados
 library(sp)
 library(raster)
 library(rgdal)
